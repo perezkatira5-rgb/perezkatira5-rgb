@@ -6,7 +6,7 @@
 
 Building fitness SaaS for trainers with React, Firebase, Capacitor, and AI.
 
-[![FitManager Pro](https://img.shields.io/badge/FitManager%20Pro-Production-00C2A8?style=for-the-badge&logo=vercel&logoColor=white)](https://protrainer-c5643.web.app)
+[![FitManager Pro](https://img.shields.io/badge/FitManager%20Pro-Production-00C2A8?style=for-the-badge&logo=vercel&logoColor=white)](https://fitmanagerpro.com.co)
 [![GitHub](https://img.shields.io/badge/GitHub-perezkatira5--rgb-181717?style=for-the-badge&logo=github)](https://github.com/perezkatira5-rgb)
 [![Location](https://img.shields.io/badge/Medellin-Colombia-F7B801?style=for-the-badge&logo=googlemaps&logoColor=111111)](#)
 
